@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_03\\Practica03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCEB84C-ED5F-476B-BC06-0AB71BEA81A9}|..\\Act3_Facturas\\Act3_Facturas.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_03\\act3_facturas\\implementations\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE6773-1AD9-415B-A200-D4AE30322DBD}|Practica03.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_03\\practica03\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE6773-1AD9-415B-A200-D4AE30322DBD}|Practica03.csproj|solutionrelative:controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE6773-1AD9-415B-A200-D4AE30322DBD}|Practica03.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_03\\practica03\\services\\invoicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE6773-1AD9-415B-A200-D4AE30322DBD}|Practica03.csproj|solutionrelative:services\\invoicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE6773-1AD9-415B-A200-D4AE30322DBD}|Practica03.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_03\\practica03\\implementations\\applicationrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE6773-1AD9-415B-A200-D4AE30322DBD}|Practica03.csproj|solutionrelative:implementations\\applicationrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCEB84C-ED5F-476B-BC06-0AB71BEA81A9}|..\\Act3_Facturas\\Act3_Facturas.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_03\\act3_facturas\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCEB84C-ED5F-476B-BC06-0AB71BEA81A9}|..\\Act3_Facturas\\Act3_Facturas.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_03\\act3_facturas\\models\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE6773-1AD9-415B-A200-D4AE30322DBD}|Practica03.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_03\\practica03\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE6773-1AD9-415B-A200-D4AE30322DBD}|Practica03.csproj|solutionrelative:controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE6773-1AD9-415B-A200-D4AE30322DBD}|Practica03.csproj|c:\\users\\leo\\desktop\\utn\\2do cuatrimestre\\programacion_ii\\practica_03\\practica03\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE6773-1AD9-415B-A200-D4AE30322DBD}|Practica03.csproj|solutionrelative:models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_03\\Practica03\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_03\\Practica03\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "Controllers\\FacturaController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:12:03.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_03\\Practica03\\Services\\InvoiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\InvoiceManager.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_03\\Practica03\\Services\\InvoiceManager.cs",
+              "RelativeToolTip": "Services\\InvoiceManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA8wBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:04:58.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_03\\Act3_Facturas\\Implementations\\FacturaRepository.cs",
+              "RelativeDocumentMoniker": "..\\Act3_Facturas\\Implementations\\FacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_03\\Act3_Facturas\\Implementations\\FacturaRepository.cs",
+              "RelativeToolTip": "..\\Act3_Facturas\\Implementations\\FacturaRepository.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAvwEQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:12:15.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentType.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_03\\Act3_Facturas\\Models\\PaymentType.cs",
+              "RelativeDocumentMoniker": "..\\Act3_Facturas\\Models\\PaymentType.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_03\\Act3_Facturas\\Models\\PaymentType.cs",
+              "RelativeToolTip": "..\\Act3_Facturas\\Models\\PaymentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:03:54.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_03\\Act3_Facturas\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "..\\Act3_Facturas\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_03\\Act3_Facturas\\Models\\Invoice.cs",
+              "RelativeToolTip": "..\\Act3_Facturas\\Models\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:01:51.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_03\\Practica03\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_03\\Practica03\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "Controllers\\ArticuloController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC4AAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:39:49.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationRepositoryADO.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_03\\Practica03\\Implementations\\ApplicationRepositoryADO.cs",
+              "RelativeDocumentMoniker": "Implementations\\ApplicationRepositoryADO.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_03\\Practica03\\Implementations\\ApplicationRepositoryADO.cs",
+              "RelativeToolTip": "Implementations\\ApplicationRepositoryADO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:36:54.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_03\\Practica03\\Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "Models\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\UTN\\2do Cuatrimestre\\Programacion_II\\Practica_03\\Practica03\\Models\\Articulo.cs",
+              "RelativeToolTip": "Models\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:14:15.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

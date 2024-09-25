@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practica02", "Practica02.csproj", "{A0DE6773-1AD9-415B-A200-D4AE30322DBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Act3_Facturas", "..\Act3_Facturas\Act3_Facturas.csproj", "{5CCEB84C-ED5F-476B-BC06-0AB71BEA81A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0DE6773-1AD9-415B-A200-D4AE30322DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DE6773-1AD9-415B-A200-D4AE30322DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DE6773-1AD9-415B-A200-D4AE30322DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DE6773-1AD9-415B-A200-D4AE30322DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CCEB84C-ED5F-476B-BC06-0AB71BEA81A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCEB84C-ED5F-476B-BC06-0AB71BEA81A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CCEB84C-ED5F-476B-BC06-0AB71BEA81A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CCEB84C-ED5F-476B-BC06-0AB71BEA81A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5BB5A9E-00CA-41BA-88E2-EDCB3DA0D490}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\Leo\Desktop\UTN\2do Cuatrimestre\Programacion_II\Practica_03\Practica02\obj\Debug\net8.0\Practica03.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\UTN\2do Cuatrimestre\Programacion_II\Practica_03\Practica02\obj\Debug\net8.0\Practica03.Properties.Resources.resources
+C:\Users\Leo\Desktop\UTN\2do Cuatrimestre\Programacion_II\Practica_03\Practica02\obj\Debug\net8.0\Practica03.csproj.GenerateResource.cache
+C:\Users\Leo\Desktop\UTN\2do Cuatrimestre\Programacion_II\Practica_03\Practica02\obj\Debug\net8.0\Practica03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\UTN\2do Cuatrimestre\Programacion_II\Practica_03\Practica02\obj\Debug\net8.0\Practica03.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\UTN\2do Cuatrimestre\Programacion_II\Practica_03\Practica02\obj\Debug\net8.0\Practica03.AssemblyInfo.cs
+C:\Users\Leo\Desktop\UTN\2do Cuatrimestre\Programacion_II\Practica_03\Practica02\obj\Debug\net8.0\Practica03.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\UTN\2do Cuatrimestre\Programacion_II\Practica_03\Practica02\obj\Debug\net8.0\Practica03.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Leo\Desktop\UTN\2do Cuatrimestre\Programacion_II\Practica_03\Practica02\obj\Debug\net8.0\Practica03.MvcApplicationPartsAssemblyInfo.cache
